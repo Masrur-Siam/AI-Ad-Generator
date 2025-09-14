@@ -1,0 +1,5 @@
+{
+  "name": "AI Ad Generator",
+  "description": "An AI-powered application to generate advertisement images from product photos using various prompt templates and styles.",
+  "requestFramePermissions": []
+}
